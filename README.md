@@ -1,3 +1,3 @@
 # hello-world
 
-Well, I'll tell you what. This demo is pretty boring so far. I am eating some crappy McDonalds breakfast burritos.
+I am now at home, about to push my changes to the github from the git.
